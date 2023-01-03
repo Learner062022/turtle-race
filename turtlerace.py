@@ -1,8 +1,8 @@
 from turtle import Turtle 
 
-riley = Turtle()  # create an instance of a turtle object
-riley.color('red')  # customise color attribute using the color method
-riley.shape('turtle')  # customise shape attribute using the shape method
+riley = Turtle()  # Create an instance of a turtle object
+riley.color('red')  # Customise color attribute using the color method
+riley.shape('turtle')  # Customise shape attribute using the shape method
 riley.penup()
 riley.goto(-160, 100)
 riley.pendown()
